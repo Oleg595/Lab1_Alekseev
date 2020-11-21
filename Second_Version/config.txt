@@ -1,0 +1,4 @@
+MODE: DECODING
+INPUT: output.txt
+OUTPUT: input_cp.txt
+WORD_SIZE: 13
